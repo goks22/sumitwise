@@ -37,17 +37,17 @@ const TAX_BRACKETS_2025 = {
 // 2025 Long Term Capital Gains Brackets (Preferential Treatment)
 const LTCG_BRACKETS_2025 = {
   SINGLE: [
-    { limit: 53350, rate: 0.0 },
+    { limit: 48350, rate: 0.0 },
     { limit: 533400, rate: 0.15 },
     { limit: Infinity, rate: 0.20 }
   ],
   MFJ: [
-    { limit: 106700, rate: 0.0 },
+    { limit: 96700, rate: 0.0 },
     { limit: 600050, rate: 0.15 },
     { limit: Infinity, rate: 0.20 }
   ],
   HEAD_OF_HOUSEHOLD: [
-    { limit: 71450, rate: 0.0 },
+    { limit: 64750, rate: 0.0 },
     { limit: 566700, rate: 0.15 },
     { limit: Infinity, rate: 0.20 }
   ]
