@@ -238,7 +238,7 @@ const TaxCalculator: React.FC<TaxCalculatorProps> = ({ onSchedule }) => {
     }
 
     const totalTaxBeforeCredits = ordinaryTax + ltcgTax;
-    const finalTax = Math.max(0, totalTaxBeforeCredits - (form.childCredits * 2000));
+    const finalTax = Math.max(0, totalTaxBeforeCredits - (form.childCredits * 2200));
 
     setResult({
       totalIncome,
