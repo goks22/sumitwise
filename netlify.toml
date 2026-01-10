@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://sumitwise.com/*"
+  to = "https://www.sumitwise.com/:splat"
+  status = 301
+  force = true
