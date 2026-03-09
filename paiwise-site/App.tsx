@@ -4,7 +4,6 @@ import Footer from './components/Footer';
 import Hero from './components/Hero';
 import ServicesSection from './components/ServicesSection';
 import ContactForm from './components/ContactForm';
-import TeamSection from './components/TeamSection';
 import AIChat from './components/AIChat';
 import TaxCalculator from './components/TaxCalculator';
 import { Tab } from './types';
