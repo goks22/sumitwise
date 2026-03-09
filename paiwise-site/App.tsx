@@ -78,7 +78,7 @@ const App: React.FC = () => {
               </div>
             </section>
 
-            <TeamSection />
+            
           </main>
         );
 
